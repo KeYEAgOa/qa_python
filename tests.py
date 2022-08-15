@@ -2,6 +2,7 @@ from main import BooksCollector
 
 # класс TestBooksCollector объединяет набор тестов, которыми мы покрываем наше приложение BooksCollector
 # обязательно указывать префикс Test
+# add data for commit
 class TestBooksCollector:
 
     # пример теста:
